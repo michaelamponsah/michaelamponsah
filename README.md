@@ -1,34 +1,33 @@
-<h1 align="center"> Hello, I'm Michael Amponsah.</h1>
-<h3 align="center">A full-stack web developer and tech enthusiast from Ghana</h3>
-
-<p align="center">I've got a keen interest in systems optimizations and building algorithms.</p>
-
-- I thrive on complexity and would love to collaborate on projects as such.
-
-<h2>Let's connect</h2>
-
-- 📫 My email **amponsahmichaelkwame@gmail.com**
-
-<p>My socials</p>
-<p align="left"> <a href="https://twitter.com/_mikeamponsah" target="blank"><img src="https://img.shields.io/twitter/follow/_mikeamponsah?color=blue&style=for-the-badge" alt="_mikeamponsah" /></a></p>
-
-
-<h2 align="left">My tech stack</h2>
-
-  ![TS](https://img.shields.io/npm/types/typescript?color=blue&label=TS&style=for-the-badge) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  
- 
-<h2 align="left">Tools</h2>
-<div>
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" title="Jest" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" />
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
-  </div>
-
-<h2 align ="left">GitHub Stats</h2>
-<div>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=michaelamponsah&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelamponsah&show_icons=true&theme=nightowl&layout=compact"/>
+<section align="center">
+  <h1> 
+  <code>Hello! I'm Michael Amponsah,</code>
+  </h1>
+  <h3>A full-stack web developer and tech enthusiast from Ghana</h3>
+  <p>
+  I've got keen interest in systems optimizations and building algorithms.
+  </p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFmqHnjyUs&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
 </div>
+</section>
+
+### About Me
+<hr>
+I am a Full-Stack Web Developer from Accra, Ghana. My expertise comes from graduating from Microverse, an esteemed online school that provided me with invaluable experiences in coding alongside talented developers from diverse backgrounds worldwide. Throughout my time at Microverse, I dedicated over 8 hours a day to honing my craft and acquiring industry-relevant languages, frameworks, and skills.
+
+My true passion lies in creating practical applications that cater precisely to the needs of users. The satisfaction of developing user-friendly solutions is what drives me in my work.
+
+
+🔭 I’m currently working on Opinion Forge, an issue-tracking web application. <br>👯 I look forward to collaborating on open-source projects<br>👻 I love to listen to tech & crime podcasts whenever I have the time.
+
+
+
+### 🌐 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikeamponsah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@amponsahmichael959) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_mikeamponsah) 
+
+# 💻 Skills:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
