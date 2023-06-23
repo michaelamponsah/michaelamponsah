@@ -4,7 +4,7 @@
   </h1>
   <h3>A full-stack web developer and tech enthusiast from Ghana</h3>
   <p>
-  I've got keen interest in systems optimizations and building algorithms.
+  I've got keen interest in systems optimizations and building efficient algorithms.
   </p>
   <img src="./michaelamponsah-banner.png" />
 </section>
