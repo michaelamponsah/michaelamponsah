@@ -6,7 +6,6 @@
   <p>
   I have a keen interest in systems optimizations and building efficient software applications.
   </p>
-  <img src="./michaelamponsah-banner.png" />
 </section>
 
 
